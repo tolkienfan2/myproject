@@ -1,7 +1,7 @@
 */__pycache__/*
 */migrations/*
 node_modules/
-.idea/*
+.idea/
 .coverage
 db.sqlite3
 
